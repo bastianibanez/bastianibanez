@@ -1,17 +1,7 @@
-<h1 align="left">Hola 👋! Me llamo Bastián y estudio Ingeniería Civil Informática</h1>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bastianibanez&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastianibanez&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&custom_title=Lenguajes%20m%C3%A1s%20usados" height="200" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bastianibanez/bastianibanez/output/snake.svg" alt="Snake animation" />
 
 ###
 
